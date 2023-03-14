@@ -1,2 +1,2 @@
-Este es el archivo 1
-Esto lo ha programado el programador A
+Este es el archivo 3
+Esto lo ha programado el programador B
